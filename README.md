@@ -178,6 +178,8 @@ Por isso, a proposta funcional priorizou consultas personalizáveis, modelos reu
 
 A solução foi estruturada a partir de fontes operacionais corporativas, com processos automatizados de extração e disponibilização das informações.
 
+![Fluxo da Solução](fluxo-da-solucao.png)
+
 **Fluxo conceitual:**
 
 `Sistemas operacionais → ETL e DAGs → Azure Data Lake Storage → Integração das informações → Plataforma de consulta e análise`
