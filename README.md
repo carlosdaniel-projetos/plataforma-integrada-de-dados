@@ -21,6 +21,8 @@ A proposta foi transformar informações dispersas em uma estrutura centralizada
 
 ## Impacto da solução no negócio
 
+![Antes e Depois](antes-e-depois.png)
+
 Inicialmente concebida para atender às necessidades do Planejamento, a solução demonstrou potencial para beneficiar diferentes áreas da organização.
 
 ### Planejamento e Compras | Agilidade no abastecimento
